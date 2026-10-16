@@ -1,0 +1,29 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Frontend dependencies/build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Private PPMI datasets and uploads
+usable_patient_ids.csv
+backend/uploads/
+original_ml/data/
+data/
+datasets/
+uploads/
+
+# Generated outputs, predictions, and trained artifacts
+original_ml/outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
