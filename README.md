@@ -305,7 +305,7 @@ Because datasets and trained artifacts are excluded, cloning the repository alon
 ## 👩‍💻 Authors
 
 - **Samanvita Madi** — [@Samanvita06](https://github.com/Samanvita06)
-- **[S Jaswika]** — [@jaswika1997](https://github.com/jaswika1997)
+- **S Jaswika** — [@jaswika1997](https://github.com/jaswika1997)
 
 Developed collaboratively as an academic machine learning research project.
 
